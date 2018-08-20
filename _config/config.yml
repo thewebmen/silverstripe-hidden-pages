@@ -1,0 +1,7 @@
+---
+Name: hiddenpages
+---
+
+SilverStripe\CMS\Model\SiteTree:
+  extensions:
+    - TheWebmen\HiddenPages\Extensions\HiddenPagesExtension
